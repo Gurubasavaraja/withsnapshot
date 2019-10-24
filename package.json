@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "homepage": "https://gurubasavaraja.github.io/withsnapshot",
-  "reactSnap": {
+  "reactSnapShot": {
     "inlineCss": true
   },
   "scripts": {
